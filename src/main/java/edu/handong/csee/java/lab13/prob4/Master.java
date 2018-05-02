@@ -2,6 +2,6 @@ package edu.handong.csee.java.lab13.prob4;
 
 public class Master {
 	public void feed(Pet pet) {
-		System.out.println("feed: " + pet.food());
+		System.out.println("feed: " + pet.food());				// print which to feed by calling method 'food'
 	}
 }
